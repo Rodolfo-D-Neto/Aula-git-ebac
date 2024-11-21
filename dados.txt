@@ -1,1 +1,13 @@
 Modificando o arquivo de dados
+ados do aluno
+
+-Primeiro Nome: Rodolfo 
+-Profissão: Professor 
+-Cidade: Brusque
+-O que faz nas horas vaga: Toco violão
+-Feedback sobre o curso Qualidade de Software: Muito bom!
+-Feedback sobre a plataforma de estudo da EBAC: Bem legal!
+
+Obrigado!!!
+
+Arquivo modificado em 21/11/2024
